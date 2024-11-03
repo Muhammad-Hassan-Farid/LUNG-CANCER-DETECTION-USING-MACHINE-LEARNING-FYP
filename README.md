@@ -17,8 +17,8 @@ Lung cancer is one of the most prevalent and deadly forms of cancer globally, wi
 •	 To validate the algorithm performance using the lung image dataset and achieve optimal accuracy.
 
 ## Methodology 
-### 1. Proposed System
-The proposed system will read the DICOM CT-Scan image in Grayscale format, then it will resize the image according to the model, normalize the image, give to the model and give us the prediction.
+### 1. Work FLow
+The proposed system will read the DICOM CT-Scan image in Grayscale format, then preprcessing steps will be performe, Build the CNN architecture, train the models and git the predictions
 
 ![App Screenshot](https://github.com/Muhammad-Hassan-Farid/LUNG-CANCER-DETECTION-USING-MACHINE-LEARNING-FYP/blob/master/Results/Capture.PNG?raw=true)
 ### 2. Data Collection 
